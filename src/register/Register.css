@@ -1,0 +1,23 @@
+.card{
+    width: 40vw;
+    margin: 10vh auto;
+}
+
+.inputs{
+    margin:2vh 10vw ; 
+    font-size: 1.8vw;
+}
+
+
+.card-title{
+    font-size: 4vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.inputs:-ms-input-placeholder{
+    font-size: 2vw;
+}
+
+.btn{
+    font-size: 2vw;
+}
